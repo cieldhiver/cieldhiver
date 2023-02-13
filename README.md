@@ -1,5 +1,5 @@
 ### Hi there 👋
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=welcome!&fontAlign=50&fontAlignY=40&color=FBFACD&fontColor=FFACC7&desc=cieldhiver%27s%20Github%20profile.)
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=140&text=welcome!&fontAlignY=45&color=FBFACD&fontColor=FFACC7&desc=cieldhiver%27s%20Github%20profile.&descAlignY=75)
 
 
 <h3>Tech Stack 📚</h3>
